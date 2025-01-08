@@ -3,24 +3,26 @@ layout: default
 title: Contact Us
 ---
 
-# Get in Touch
+# Contact Us
+
+Have questions? Want to partner with us? Contact us today!
 
 ## Address
-123 Chicken Coop Road, Farmville, USA
+48-1-45/a, Jagannadhapuram, Kakinada - 533004
 
 ## Phone
-(123) 456-7890
++91 9177 377 178
 
 ## Email
-info@chickencoop.com
+gsrnaatukodi@gmail.com
 
 ## Contact Form
-<form action="https://formspree.io/f/{your_form_id}" method="POST">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name" required><br>
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="email" required><br>
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message" required></textarea><br>
+<form action="https://formspree.io/f/{your-form-id}" method="POST">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required>
+  <label for="message">Message:</label>
+  <textarea id="message" name="message" required></textarea>
   <button type="submit">Submit</button>
 </form>
